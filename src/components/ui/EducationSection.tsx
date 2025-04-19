@@ -45,10 +45,10 @@ export const EducationSection = () => {
                   <h3 className="text-xl font-semibold text-gray-800 mb-2">
                     BTech in Computer Science (AI & ML)
                   </h3>
-                  <p className="text-blue-600 mb-2">Current University</p>
+                  <p className="text-blue-600 mb-2">SRM Institute of Science and Technology</p>
                   <p className="text-gray-600">2021 - Present</p>
                   <p className="text-gray-600 mt-2">
-                    Specializing in Artificial Intelligence and Machine Learning
+                    Pursuing specialization in Artificial Intelligence and Machine Learning at SRMIST, Chennai
                   </p>
                 </div>
               </motion.div>

@@ -14,10 +14,10 @@ export const AboutSection = () => {
         >
           <h2 className="text-3xl font-bold text-gray-800 mb-6">About Me</h2>
           <p className="text-lg text-gray-600 mb-8">
-            I'm a third-year BTech student specializing in Computer Science with a focus on
-            Artificial Intelligence and Machine Learning. My academic journey has equipped me
-            with strong foundations in programming, data structures, and cutting-edge AI
-            technologies.
+            I'm a third-year BTech student at SRM Institute of Science and Technology (SRMIST), Chennai,
+            specializing in Computer Science with a focus on Artificial Intelligence and Machine
+            Learning. My academic journey has equipped me with strong foundations in programming,
+            data structures, and cutting-edge AI technologies.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="p-6 bg-blue-50 rounded-xl">
@@ -25,8 +25,8 @@ export const AboutSection = () => {
               <p className="text-gray-600">AI & ML Specialization</p>
             </div>
             <div className="p-6 bg-blue-50 rounded-xl">
-              <h3 className="font-semibold text-blue-600 mb-2">Current Year</h3>
-              <p className="text-gray-600">3rd Year BTech</p>
+              <h3 className="font-semibold text-blue-600 mb-2">University</h3>
+              <p className="text-gray-600">SRMIST Chennai</p>
             </div>
             <div className="p-6 bg-blue-50 rounded-xl">
               <h3 className="font-semibold text-blue-600 mb-2">Next Step</h3>
